@@ -1,0 +1,73 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3892600948"/>
+    <file name="master_a-master.css" crc="495373720" ref="audio-clips:index"/>
+    <file name="audio-clips.css" crc="92492578" ref="audio-clips"/>
+    <file name="index.css" crc="4172446138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:audio-clips"/>
+    <file name="museutils.js" crc="3865766194" ref="index:audio-clips"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:audio-clips"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:audio-clips"/>
+    <file name="pie.js" crc="3827607177" ref="index:audio-clips"/>
+    <file name="webpro.js" crc="3903299128" ref="index:audio-clips"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:audio-clips"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:audio-clips"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:audio-clips"/>
+    <file name="jquery.scrolleffects.js" crc="3937082470" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:audio-clips"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:audio-clips"/>
+  </folder>
+  <folder name="images">
+    <file name="torn slit separator.png" crc="4246148411" ref="index"/>
+    <file name="u7279.png" crc="3816368640" ref="index"/>
+    <file name="u7279-r.png" crc="3988202851" ref="index"/>
+    <file name="recepcion-u12216-fr.jpg" crc="181569606" ref="index"/>
+    <file name="suite de ensayo-u12353-fr.jpg" crc="302887510" ref="index"/>
+    <file name="amplificadores de gritarra-u12372-fr.jpg" crc="443247358" ref="index"/>
+    <file name="amplificadores de gruitarra2-u12382-fr.jpg" crc="3912468398" ref="index"/>
+    <file name="suite de grabacion-u12390-fr.jpg" crc="3800780531" ref="index"/>
+    <file name="suite de grabacion2-u12398-fr.jpg" crc="3992641053" ref="index"/>
+    <file name="suite de grabacion bateria de secion dw7-u12446-fr.jpg" crc="373423268" ref="index"/>
+    <file name="suite de grabacion bateria de secion dw3-u12458-fr.jpg" crc="148390602" ref="index"/>
+    <file name="suite de grabacion bateria de secion dw4-u12470-fr.jpg" crc="128698815" ref="index"/>
+    <file name="suite de grabacion bateria de secion dw-u12482-fr.jpg" crc="4263443256" ref="index"/>
+    <file name="suite de grabacion bateria de secion dw2-u12494-fr.jpg" crc="3833264849" ref="index"/>
+    <file name="suite de grabacion bateria de secion dw5-u12506-fr.jpg" crc="3970453547" ref="index"/>
+    <file name="percusion para grabacion-u12518-fr.jpg" crc="298745669" ref="index"/>
+    <file name="suite de grabacion seteo para grabacion de bateria-u12530-fr.jpg" crc="14671462" ref="index"/>
+    <file name="control room2-u12542-fr.jpg" crc="3795813573" ref="index"/>
+    <file name="control room3-u12554-fr.jpg" crc="61215085" ref="index"/>
+    <file name="control room-u12568-fr.jpg" crc="152928906" ref="index"/>
+    <file name="control room4-u12580-fr.jpg" crc="139820819" ref="index"/>
+    <file name="control room5-u12592-fr.jpg" crc="4037843044" ref="index"/>
+    <file name="grabacion de voces-u12610-fr.jpg" crc="112974518" ref="index"/>
+    <file name="grabacion de voces2-u12628-fr.jpg" crc="4127113487" ref="index"/>
+    <file name="recepcion3-u12650-fr.jpg" crc="3883544926" ref="index"/>
+    <file name="recepcion2-u12706-fr.jpg" crc="27749088" ref="index"/>
+    <file name="set de percusion para grabacion-u12708-fr.jpg" crc="4244029302" ref="index"/>
+    <file name="suite de grabacion seteo para bateria-u12742-fr.jpg" crc="4155814303" ref="index"/>
+    <file name="grupo de trabajo-u12754-fr.jpg" crc="3878390175" ref="index"/>
+    <file name="grupo de trabajo2-u12764-fr.jpg" crc="4105584968" ref="index"/>
+    <file name="guitariconhqnx9.png" crc="298284672" ref="index"/>
+    <file name="iconmonstr-microphone-2-icon-256 (2).png" crc="212091296" ref="index"/>
+    <file name="iconmonstr-volume-control-5-icon-256.png" crc="76946751" ref="index"/>
+    <file name="u8936-grad.png" crc="3766686895" ref="index"/>
+    <file name="logo gris trebol publicidad.png" crc="3859296278" ref="index:audio-clips"/>
+    <file name="u13557.png" crc="3816368640" ref="audio-clips"/>
+    <file name="u13557-r.png" crc="3988202851" ref="audio-clips"/>
+    <file name="cd-master.png" crc="4227325177" ref="audio-clips"/>
+    <file name="artworks-000082574245-pl9qi9-t500x500.jpg" crc="322465276" ref="audio-clips"/>
+    <file name="album-u14257.png" crc="4062028756" ref="audio-clips"/>
+    <file name="artworks-000080592010-a7lv39-t500x500.jpg" crc="457882428" ref="audio-clips"/>
+    <file name="album-u14435.png" crc="4062028756" ref="audio-clips"/>
+    <file name="album-u14438.png" crc="4062028756" ref="audio-clips"/>
+    <file name="u14061-sprite.png" crc="4013670294" ref="audio-clips"/>
+    <file name="album-u14743.png" crc="4062028756" ref="audio-clips"/>
+    <file name="amplificadores de gritarra-u12372-fr2.jpg" crc="443247358" ref="audio-clips"/>
+    <file name="u8899-grad.png" crc="164378294" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3857436850" mt="1405048762782" redirect="true"/>
+  <file name="audio-clips.html" crc="4189883694" mt="1405036950709" redirect="true"/>
+</manifest>
